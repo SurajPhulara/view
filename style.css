@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    column-gap: 2vw;
+}
+
+.model_input{
+    width: 30vw;
+    height: 90vh;
+} 
+
+.abc{
+    width: 30vw;
+    height: 90vh;
+}
+
+#html_output{
+    width: 40vw;
+    height: 90vh;
+}
